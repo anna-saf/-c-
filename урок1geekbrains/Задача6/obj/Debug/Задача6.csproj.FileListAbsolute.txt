@@ -1,0 +1,7 @@
+C:\Users\Аня\source\repos\урок1geekbrains\Задача6\obj\Debug\Задача6.csprojAssemblyReference.cache
+C:\Users\Аня\source\repos\урок1geekbrains\Задача6\obj\Debug\Задача6.csproj.CoreCompileInputs.cache
+C:\Users\Аня\source\repos\урок1geekbrains\Задача6\bin\Debug\Задача6.exe.config
+C:\Users\Аня\source\repos\урок1geekbrains\Задача6\bin\Debug\Задача6.exe
+C:\Users\Аня\source\repos\урок1geekbrains\Задача6\bin\Debug\Задача6.pdb
+C:\Users\Аня\source\repos\урок1geekbrains\Задача6\obj\Debug\Задача6.exe
+C:\Users\Аня\source\repos\урок1geekbrains\Задача6\obj\Debug\Задача6.pdb
