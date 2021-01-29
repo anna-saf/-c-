@@ -1,0 +1,7 @@
+C:\Users\Аня\Desktop\дз по курсу с#\урок2GeekBrains\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\Аня\Desktop\дз по курсу с#\урок2GeekBrains\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\Аня\Desktop\дз по курсу с#\урок2GeekBrains\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\Аня\Desktop\дз по курсу с#\урок2GeekBrains\ConsoleApp1\obj\Debug\Задача1.csprojAssemblyReference.cache
+C:\Users\Аня\Desktop\дз по курсу с#\урок2GeekBrains\ConsoleApp1\obj\Debug\Задача1.csproj.CoreCompileInputs.cache
+C:\Users\Аня\Desktop\дз по курсу с#\урок2GeekBrains\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\Аня\Desktop\дз по курсу с#\урок2GeekBrains\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

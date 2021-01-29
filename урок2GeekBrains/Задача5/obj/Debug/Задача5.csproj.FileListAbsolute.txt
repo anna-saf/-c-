@@ -1,0 +1,7 @@
+C:\Users\Аня\Desktop\дз по курсу с#\урок2GeekBrains\Задача5\bin\Debug\Задача5.exe.config
+C:\Users\Аня\Desktop\дз по курсу с#\урок2GeekBrains\Задача5\bin\Debug\Задача5.exe
+C:\Users\Аня\Desktop\дз по курсу с#\урок2GeekBrains\Задача5\bin\Debug\Задача5.pdb
+C:\Users\Аня\Desktop\дз по курсу с#\урок2GeekBrains\Задача5\obj\Debug\Задача5.csprojAssemblyReference.cache
+C:\Users\Аня\Desktop\дз по курсу с#\урок2GeekBrains\Задача5\obj\Debug\Задача5.csproj.CoreCompileInputs.cache
+C:\Users\Аня\Desktop\дз по курсу с#\урок2GeekBrains\Задача5\obj\Debug\Задача5.exe
+C:\Users\Аня\Desktop\дз по курсу с#\урок2GeekBrains\Задача5\obj\Debug\Задача5.pdb
