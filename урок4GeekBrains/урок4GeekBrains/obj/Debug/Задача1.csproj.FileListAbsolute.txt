@@ -1,0 +1,6 @@
+C:\Users\Аня\source\repos\урок4GeekBrains\урок4GeekBrains\bin\Debug\урок4GeekBrains.exe.config
+C:\Users\Аня\source\repos\урок4GeekBrains\урок4GeekBrains\bin\Debug\урок4GeekBrains.exe
+C:\Users\Аня\source\repos\урок4GeekBrains\урок4GeekBrains\bin\Debug\урок4GeekBrains.pdb
+C:\Users\Аня\source\repos\урок4GeekBrains\урок4GeekBrains\obj\Debug\Задача1.csproj.CoreCompileInputs.cache
+C:\Users\Аня\source\repos\урок4GeekBrains\урок4GeekBrains\obj\Debug\урок4GeekBrains.exe
+C:\Users\Аня\source\repos\урок4GeekBrains\урок4GeekBrains\obj\Debug\урок4GeekBrains.pdb
