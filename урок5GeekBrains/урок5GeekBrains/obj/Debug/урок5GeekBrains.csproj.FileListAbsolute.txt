@@ -1,0 +1,7 @@
+C:\Users\Аня\source\repos\урок5GeekBrains\урок5GeekBrains\bin\Debug\урок5GeekBrains.exe.config
+C:\Users\Аня\source\repos\урок5GeekBrains\урок5GeekBrains\bin\Debug\урок5GeekBrains.exe
+C:\Users\Аня\source\repos\урок5GeekBrains\урок5GeekBrains\bin\Debug\урок5GeekBrains.pdb
+C:\Users\Аня\source\repos\урок5GeekBrains\урок5GeekBrains\obj\Debug\урок5GeekBrains.csprojAssemblyReference.cache
+C:\Users\Аня\source\repos\урок5GeekBrains\урок5GeekBrains\obj\Debug\урок5GeekBrains.csproj.CoreCompileInputs.cache
+C:\Users\Аня\source\repos\урок5GeekBrains\урок5GeekBrains\obj\Debug\урок5GeekBrains.exe
+C:\Users\Аня\source\repos\урок5GeekBrains\урок5GeekBrains\obj\Debug\урок5GeekBrains.pdb

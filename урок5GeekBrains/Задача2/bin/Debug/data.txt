@@ -1,0 +1,86 @@
+using System;
+using System.Collections.Generic;
+using System.IO;
+using System.Linq;
+using System.Text;
+using System.Text.RegularExpressions;\\RegularExpressions
+using System.Threading.Tasks;
+
+namespace Задача2
+{
+    class Message
+    {
+        public static void FindWordInMessage(int length, string mes)
+        {
+            var words = GetStrForSplit(mes).Split(' ').ToList().FindAll(x=>x.Length!=0);
+            foreach (string word in words)
+            {
+                if(word.Length<= length)
+                {
+                    Console.Write(word + " ");
+                }
+            }
+        }
+
+        public static string DelWord(char symbol, string mes)
+        {
+            var words = GetStrForSplit(mes).Split(' ').ToList().FindAll(x => x.Length != 0);
+            foreach (string word in words)
+            {
+                if (word[word.Length-1] != symbol)
+                {
+                    mes.Replace(word,"");
+                }
+            }
+            return mes;
+        }
+
+        public static string MaxWord(string mes)
+        {
+            string maxWord = "";
+            var words = GetStrForSplit(mes).Split(' ').ToList().FindAll(x => x.Length != 0);
+            foreach (string word in words)
+            {
+                if (word.Length > maxWord.Length)
+                {
+                    maxWord = word;
+                }
+            }
+            return maxWord;
+        }
+
+        public static string MaxWordStr(string mes)
+        {
+            string returnmes = "";
+            string maxWord = MaxWord(mes);
+            var words = GetStrForSplit(mes).Split(' ').ToList().FindAll(x => x.Length != 0);
+            foreach (string word in words)
+            {
+                if (word.Length == maxWord.Length)
+                {
+                    returnmes += word + " ";
+                }
+            }
+            return returnmes;
+        }
+
+        public static string GetStrForSplit(string message)
+        {
+            return Regex.Replace(Regex.Replace(message, @"\n|\r|\||\,|\.|\;|\:|""|\]|\[|\}|\{|\\|\/|\?|\!|'|\$|\@|\%|\#|\№|\^|\*|\(|\)|\=|\+|\-|_|\>|\<", " "), @" {1,100}", " ");
+        }
+    }
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            StreamReader str = new StreamReader("data.txt");
+            string message = str.ReadToEnd();
+            Message.FindWordInMessage(10, message);
+            Console.WriteLine(Message.MaxWord(message));
+            Console.WriteLine(Message.MaxWordStr(message));
+            Console.WriteLine(Message.DelWord('s', message));
+            Console.ReadKey();
+        }
+    }
+}
+
